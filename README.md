@@ -1,6 +1,6 @@
 # flappy_bird
 
-This project is written by Flutter basic game framework called Flame.
+This project is written with Flutter basic game framework called Flame.
 
 You can find flame : https://flame-engine.org/docs/ 
 
